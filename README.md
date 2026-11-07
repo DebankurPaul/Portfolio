@@ -72,3 +72,4 @@ npm run build
 2. Log in to [vercel.com](https://vercel.com).
 3. Click **"Add New Project"** and import your GitHub repository.
 4. Vite framework settings are pre-configured in `vercel.json` and will automatically deploy to a free custom domain (e.g. `debankurpaul.vercel.app`).
+
