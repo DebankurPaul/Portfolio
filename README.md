@@ -58,18 +58,4 @@ npm run build
 
 ---
 
-## 🌐 Deploy to Vercel (Free)
-
-1. Push this repository to GitHub:
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit: Debankur Paul portfolio"
-   git branch -M main
-   git remote add origin https://github.com/DebankurPaul/portfolio.git
-   git push -u origin main
-   ```
-2. Log in to [vercel.com](https://vercel.com).
-3. Click **"Add New Project"** and import your GitHub repository.
-4. Vite framework settings are pre-configured in `vercel.json` and will automatically deploy to a free custom domain (e.g. `debankurpaul.vercel.app`).
 
